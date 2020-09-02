@@ -1,4 +1,4 @@
-<h2> Hi, I'm Eda Deniz! <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Eda Deniz! <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="50" height="50"></h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <p><em>Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </br>
