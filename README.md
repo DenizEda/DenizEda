@@ -23,6 +23,6 @@ const Eda = {
 }
 ```
 
-<img src="https://media.giphy.com/media/U6Fdki5Qp4S67irJqe/giphy.gif" width="60"> <em><b>Want to connect? Reach out to me on <a href="linkedin.com/in/EdaDenizci">LinkedIn</a>, via <a href="mailto:Eda.Deniz91@gmail.com">email</a> and check out my portfolio <a href='http://www.edadenizci.com'>here</a>!</em>
+<img src="https://media.giphy.com/media/U6Fdki5Qp4S67irJqe/giphy.gif" width="60"> <em><b>Want to connect? Reach out to me on <a href="linkedin.com/in/EdaDenizci">LinkedIn</a>, via <a href="mailto:Eda.Deniz91@gmail.com">email</a> and check out my portfolio <a href='http://www.edadenizci.com/#/'>here</a>!</em>
 
 ---
