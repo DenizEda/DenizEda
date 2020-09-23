@@ -13,12 +13,16 @@
 ```javascript
 const Eda = {
   pronouns: "she" | "her",
+  openToWork: true,
   primaryLanguage: "Javascript",
   stack: "PERN Stack(PostgreSQL, Express, React, and Node)",
   testing: ["Mocha", "Chai", "Jasmine"],
   challenge: {
      name: "100 days of code",
-     goals: ["Build a PWA/Native App", "Create a Chrome Extension", "Learn GraphQL", "Learn Python"]
+     goals: ["Build a PWA/Native App", "Create a Chrome Extension", "Learn GraphQL", "Learn Python", "Create portfolio website"]
+     achieved: ["Create portfolio website"],
+     inProgress: ["Build a PWA/Native App"],
+     currentlyLearning: ['Responsive Web Design', 'React Native',]
   }               
 }
 ```
