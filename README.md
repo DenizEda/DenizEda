@@ -1,14 +1,13 @@
-<h2> Hi, I'm Eda Deniz! <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="50" height="50"></h2>
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
-<p><em>Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Eda! 👋👩🏻‍💻<img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="50" height="50"></h2>
+<p><em>Full Stack Software Engineer 
   </br>
-  Graduate from <a href="https://www.gracehopper.com/">The Grace Hopper Program at Fullstack Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  Graduate from <a href="https://www.gracehopper.com/">The Grace Hopper Program at Fullstack Academy</a>
 </em></p>
 
 [![Linkedin: Eda Deniz](https://img.shields.io/badge/-EdaDenizci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/EdaDenizci/)](https://www.linkedin.com/in/EdaDenizci/)
 [![GitHub: DenizEda](https://img.shields.io/github/followers/DenizEda?label=follow&style=social)](https://github.com/DenizEda)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###A little more about me...  
 
 ```javascript
 const Eda = {
